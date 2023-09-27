@@ -11,10 +11,15 @@ public class Ejercicio6 {
 	
 	public static void main(String[] args) {
 		
-		String mensaje = "La casa de";
-		System.out.println(mensaje);
-		mensaje += " Juan es ";
-		System.out.println(mensaje);
+		String msg = "La casa de";
+		System.out.println(msg);
+		msg += " Juan es ";
+		System.out.println(msg);
+		msg += " el número";
+		System.out.println(msg);
+		msg += " " + 25;
+		System.out.println(msg);
+		
 	}
 
 }
