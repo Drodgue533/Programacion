@@ -57,7 +57,7 @@ Podemos ver, como a pesar de ser un idioma bastante simple sigue teniendo una po
 
 [Puedes ir a _**dillinger**_ con este enlace, y utilizarlo para transformar el archivo Markdown en Hmtl y/o compararlos](https://dillinger.io/)
 
-[Puedes ir a través de este enlace, al archivo Markdown transformado en HTML](markdown.html)
+[Puedes ir a través de este enlace, al archivo Markdown transformado en HTML](Markdown.html)
 
 
 ## Comparación de ambos archivos
