@@ -35,17 +35,10 @@ Puedes usar \`código en línea\` en Markdown.
 
 ```
 
-### Enlace a una URL externa
-
-[Puedes ir a _**dillinger**_ con este enlace, y utilizarlo para transformar el archivo Markdown en Hmtl y/o compararlos](https://dillinger.io/)
-
 ### Enlace a otro fichero
 
 [Puedes acceder a otro archivo Markdown hacienco clic en este enlace](markdown1.md)
 
-## Ejemplo de imagen
-
-![Una pantalla con líneas de código Markdwon](https://www.maximaformacion.es/wp-content/uploads/2021/09/RMarkdown-1-1024x640-1.png.webp)
 
 ## Tabla comparativa Markdown
 
@@ -60,7 +53,18 @@ Podemos ver, como a pesar de ser un idioma bastante simple sigue teniendo una po
 | Textile               | Baja        | Sitios web personales |
 
 
+### Enlace a una URL externa
+
+[Puedes ir a _**dillinger**_ con este enlace, y utilizarlo para transformar el archivo Markdown en Hmtl y/o compararlos](https://dillinger.io/)
+
+[Puedes ir a través de este enlace, al archivo Markdown transformado en HTML](markdown.html)
+
+
 ## Comparación de ambos archivos
+
+
+![Imagen comparativa html y Markdown](https://i.postimg.cc/HnLKqJzS/Comparativa.png)
+
 
 En la mayoría de los aspectos los archivos se mantienen iguales, pero hay pequeños cambios:
 
